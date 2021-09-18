@@ -4,10 +4,10 @@ One Paragraph of project objective goes here
 
 ## Table of contents
 
-Workshop 1: [What is LaTeX?]()\
-Workshop 2: [Let's Code IT!]()\
-Workshop 3: [LaTeX!! What's more]()\
-Workshop 4: [Section 4]()
+Workshop 1: [What is LaTeX?](https://github.com/ghassanarnouk/LaTeX-Workshop/tree/workshop1)\
+Workshop 2: [Let's Code IT!](https://github.com/ghassanarnouk/LaTeX-Workshop/tree/workshop2)\
+Workshop 3: [LaTeX!! What's more](https://github.com/ghassanarnouk/LaTeX-Workshop/tree/workshop3)\
+Workshop 4: [Section 4](https://github.com/ghassanarnouk/LaTeX-Workshop/tree/workshop4)
 
 ## Prerequisites
 

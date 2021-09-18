@@ -4,14 +4,14 @@ One Paragraph of project objective goes here
 
 ## Table of contents
 
-Workshop 1: [Section 1]()\
-Workshop 2: [Section 2]()\
-Workshop 3: [Section 3]()\
+Workshop 1: [What is LaTeX?]()\
+Workshop 2: [Let's Code IT!]()\
+Workshop 3: [LaTeX!! What's more]()\
 Workshop 4: [Section 4]()
 
 ## Prerequisites
 
-Make sure you have installed `things you need to install the software and with a link for installation` on your development machine.
+Ensure to have a `Gmail` account.
 
 ## Usage
 

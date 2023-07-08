@@ -1,6 +1,6 @@
 # LaTeX-Workshop
 
-One Paragraph of project objective goes here
+Unlock the Power of LaTeX: Your Ultimate Guide
 
 ## Table of contents
 

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="utf-8">
+   <title>Register on SYSCBOOK</title>
+   <link rel="stylesheet" href="assets/css/reset.css">
+   <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+   <header>
+      <h1>SYSCBOOK</h1>
+      <p>Social media for SYSC students in Carleton University</p>
+   </header>
+   <nav>
+      <ul>
+         <li><a href="./index.html" target="_blank" rel="noopener noreferrer">Home</a></li>
+         <li><a href="./profile.html" target="_blank" rel="noopener noreferrer">Profile</a></li>
+         <li><a href="./register.html" target="_blank" rel="noopener noreferrer">Register</a></li>
+         <li><a href="https://www.youtube.com/shorts/pP0AheQahH4" target="_blank" rel="noopener noreferrer">Log out</a></li>
+      </ul>
+   </nav>
+   <main>
+      <section>
+         <h2>Register a new profile</h2>
+         <form action="https://ramisabouni.com/sysc4504/process_register.php" method="post">
+            <fieldset>
+               <legend>Personal information</legend>
+               <table>
+                  <tr>
+                    <td>First Name:</td>
+                    <td><input type="text" name="first_name"></td>
+                    <td>Last Name:</td>
+                    <td><input type="text" name="last_name"></td>
+                    <td>DOB:</td>
+                    <td><input type="date" name="DOB"></td>
+                  </tr>
+                </table>
+            </fieldset>
+            <fieldset>
+               <legend>Profile information</legend>
+                  <table>
+                     <tr>
+                        <td colspan="2">Email address:<input type="email" name="student_email"></td>
+                     </tr>
+                     <tr>
+                        <td colspan="2">Program
+                           <select name="Program">
+                              <option>Choose Program</option>
+                              <option>Computer Systems Engineering</option>
+                              <option>Software Engineering</option>
+                              <option>Communications Engineering</option>
+                              <option>Biomedical and Electrical Engineering</option>
+                              <option>Electrical Engineering</option>
+                              <option>Special</option>
+                           </select>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td><button type="submit">Register</button></td>
+                        <td><button type="reset">Reset</button></td>
+                     </tr>
+                  </table>
+            </fieldset>
+         </form>
+      </section>
+   </main>
+</body>
+</html>

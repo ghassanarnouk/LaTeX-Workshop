@@ -21,7 +21,7 @@ Assuming you have already created a `Gamil` account:
 
 1. Navigate to the home page of [Overleaf](https://www.overleaf.com/)
 
-![attributes](img/overleafHomePage.png)
+![attributes](src/img/overleafHomePage.png)
 
 2. Press the `Register with Google` button.
 
@@ -29,21 +29,21 @@ Assuming you have already created a `Gamil` account:
 
 4. Once the registeration process is done, the user will be navigated to the page shown below.
 
-![attributes](img/overleafProjectPage.png)
+![attributes](src/img/overleafProjectPage.png)
 
 5. Select the `New Project` green button at the top left corner of the screen.
 
-![attributes](img/overleafUploadProject.png)
+![attributes](src/img/overleafUploadProject.png)
 
 6. Select the `Upload Project` option from the menu.
 
-![attributes](img/selectazip.png)
+![attributes](src/img/selectazip.png)
 
 7. Open a new browser tab and navigate to [LaTeXTutorialSeries](https://github.com/humdrumcomet/LaTeXTutorialSeries) repository.
 
 8. Select the `Code` green button and then select `Download ZIP` as shown below.
 
-![attributes](img/downloadZip.png)
+![attributes](src/img/downloadZip.png)
 
 9. In Overleaf, select the `Select a .zip file` button and upload the downloaded zip file from [LaTeXTutorialSeries](https://github.com/humdrumcomet/LaTeXTutorialSeries) repository.
 
@@ -52,7 +52,7 @@ Assuming you have already created a `Gamil` account:
 ## Authors
 
 * **Aaron English**
-* Ghassan Arnouk
+* **Ghassan Arnouk**
 
 ## License
 

@@ -25,9 +25,9 @@ Assuming you have already created a `Gamil` account:
 
 2. Press the `Register with Google` button.
 
-3. Fill in the required information and finish up the registeration.
+3. Fill in the required information and finish up the registration.
 
-4. Once the registeration process is done, the user will be navigated to the page shown below.
+4. Once the registration process is done, the user will be navigated to the page shown below.
 
 ![attributes](src/img/overleafProjectPage.png)
 
